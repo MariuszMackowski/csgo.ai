@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  9 12:08:12 2020
-
-@author: Mario
-"""
-
-
-
 import json
 import pandas as pd
 import numpy as np
